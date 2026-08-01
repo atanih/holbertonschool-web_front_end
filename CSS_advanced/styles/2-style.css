@@ -1,0 +1,29 @@
+/*
+  Task 2 - Do you know your color values?
+  Sets the foreground colors of the body, the anchors, the card categories
+  and the section taglines, and hides the visually hidden elements.
+*/
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  color: #161616;
+}
+
+a {
+  color: #161616;
+}
+
+.visually-hidden {
+  display: none;
+}
+
+.card-category {
+  color: #d73953;
+}
+
+.section-tagline {
+  color: #d73953;
+}
